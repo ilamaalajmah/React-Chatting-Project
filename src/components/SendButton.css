@@ -1,0 +1,21 @@
+.send-button {
+  font-family: inherit;
+  font-size: 20px;
+
+  color: white;
+  padding: 0.5em 0.5em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.send-button svg {
+  display: block;
+}
+
+.send-button:hover .svg-wrapper {
+  opacity: 0.8;
+}
