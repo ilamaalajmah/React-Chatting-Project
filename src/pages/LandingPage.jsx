@@ -11,7 +11,7 @@ function LandingPage() {
         <div
           className="absolute inset-0 bg-cover bg-center"
           style={{
-            backgroundImage: `url(${bg1})`,
+            backgroundColor: `#010a19`,
             backgroundRepeat: 'no-repeat',
             backgroundSize: 'cover'
           }}
